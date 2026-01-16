@@ -1,2 +1,0 @@
-# Software_testing_course_OAMK
-Software_testing_course_OAMK
